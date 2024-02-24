@@ -5,4 +5,3 @@
  Mas calma, o terminal não morde e será seu principal companheiro no dia a dia.
 
 ## O que é o terminal? No vídeo abaixo, tento explicar brevemente ;)
-
