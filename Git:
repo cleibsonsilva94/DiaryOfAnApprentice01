@@ -1,6 +1,11 @@
 O QUE É O GIT?
 
-O Git é um sistema de controle de versão distribuído usado principalmente para o desenvolvimento de software. Ele permite que várias pessoas trabalhem em um mesmo projeto, mantendo um histórico completo de todas as alterações feitas no código-fonte. Com o Git, os desenvolvedores podem colaborar de forma eficiente, rastrear mudanças, reverter para versões anteriores, ramificar o código para desenvolver recursos separadamente e mesclar o trabalho de diferentes colaboradores. Ele é amplamente utilizado na indústria de software devido à sua eficácia na gestão do desenvolvimento de projetos em equipe. Abaixo, trago alguns dos principais comandos dessa ferramenta simplesmente fascinante.
+O Git é um sistema de controle de versão distribuído usado principalmente para o desenvolvimento de software. 
+Ele permite que várias pessoas trabalhem em um mesmo projeto, mantendo um histórico completo de todas as alterações 
+feitas no código-fonte. Com o Git, os desenvolvedores podem colaborar de forma eficiente, rastrear mudanças, reverter 
+para versões anteriores, ramificar o código para desenvolver recursos separadamente e mesclar o trabalho de diferentes colaboradores. 
+Ele é amplamente utilizado na indústria de software devido à sua eficácia na gestão do desenvolvimento de projetos em equipe. Abaixo 
+trago alguns dos principais comandos dessa ferramenta simplesmente fascinante.
 
 PRINCIPAIS COMANDOS - Comentados :)
 
@@ -131,6 +136,9 @@ git reset --hard HEAD^ # Desfaz o último commit e descarta as alterações
 
 UMA SUGESTÃO ;)
 
-O Git é de longe a melhor ferramenta de versionamento que existe. No começo, sugiro que você anote os principais comandos. Mas quais, diante de tantos que existem?
-Os que você perceber que são mais atualizados na sua empresa ou os que permitirão que você consiga editar códigos, salvá-los temporariamente e submetê-los a um avaliador. 
-Anote esses comandos em um lugar onde você consiga acessá-los facilmente (eu anotava no Slack) e com o tempo você vai decorar boa parte deles e, digo mais, desenvolverá um grande amor e fascínio pelo recurso mais que perfeito!
+O Git é de longe a melhor ferramenta de versionamento que existe. No começo, sugiro que você anote os principais comandos. 
+Mas quais, diante de tantos que existem? Os que você perceber que são mais atualizados na sua empresa ou os que permitirão 
+que você consiga editar códigos, salvá-los temporariamente e submetê-los a um avaliador.
+
+Anote esses comandos em um lugar onde você consiga acessá-los facilmente (eu anotava no Slack) e com o tempo você vai decorar boa parte deles
+e digo mais, desenvolverá um grande amor e fascínio pelo recurso mais que perfeito!
