@@ -20,3 +20,6 @@ o terminal devolve depois de comandos) pode confundir você!
 
 Abaixo, um pequeno vídeo com os 3 comandos:
 
+## CD
+
+https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/9574d835-b4a7-454c-bfd5-d127a315d15e
