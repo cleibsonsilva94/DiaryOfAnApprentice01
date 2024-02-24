@@ -23,3 +23,11 @@ Abaixo, um pequeno vídeo com os 3 comandos:
 ## CD
 
 https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/9574d835-b4a7-454c-bfd5-d127a315d15e
+
+## LS
+
+https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/e9ca925e-43f4-4e25-93f5-7b3ce0a523b9
+
+## CLEAR
+
+https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/c27c5337-47f8-4f6e-a38a-0b39493e9143
