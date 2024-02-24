@@ -142,3 +142,48 @@ que você consiga editar códigos, salvá-los temporariamente e submetê-los a u
 
 Anote esses comandos em um lugar onde você consiga acessá-los facilmente (eu anotava no Slack) e com o tempo você vai decorar boa parte deles
 e digo mais, desenvolverá um grande amor e fascínio pelo recurso mais que perfeito: Git :)
+
+
+escreva todo o texto acima de tal forma que os comandos fiquem em negrito na formatação de um arquivo de texto no github
+ChatGPT
+O QUE É O GIT?
+O Git é um sistema de controle de versão distribuído usado principalmente para o desenvolvimento de software. Ele permite que várias pessoas trabalhem em um mesmo projeto, mantendo um histórico completo de todas as alterações feitas no código-fonte. Com o Git, os desenvolvedores podem colaborar de forma eficiente, rastrear mudanças, reverter para versões anteriores, ramificar o código para desenvolver recursos separadamente e mesclar o trabalho de diferentes colaboradores. Ele é amplamente utilizado na indústria de software devido à sua eficácia na gestão do desenvolvimento de projetos em equipe. Abaixo trago alguns dos principais comandos dessa ferramenta simplesmente fascinante.
+
+PRINCIPAIS COMANDOS - Comentados :)
+CONFIGURAÇÃO E INICIALIZAÇÃO
+
+git init # Inicializa um novo repositório Git local
+git clone [url] # Clona um repositório remoto para o diretório local
+BÁSICO DE TRABALHO COM REPOSITÓRIOS
+
+git add [file] # Adiciona alterações de um arquivo específico ao stage
+git add . # Adiciona todas as alterações ao stage
+git add -A # Adiciona todas as alterações, incluindo deletados, ao stage
+git commit -m "[message]" # Cria um novo commit com as alterações no stage e uma mensagem de commit
+git commit -am "[message]" # Adiciona e comita todas as alterações, permitindo adicionar uma mensagem de commit
+git status # Exibe o status atual do repositório
+git diff # Mostra as diferenças entre o diretório de trabalho e o stage
+git diff --staged # Mostra as diferenças entre o stage e o último commit
+git rm [file] # Remove um arquivo do repositório e do stage
+git mv [old_file] [new_file] # Move ou renomeia um arquivo e adiciona a mudança ao stage
+TRABALHANDO COM BRANCHES
+
+git branch # Lista todas as branches locais
+git branch [branch_name] # Cria uma nova branch
+git branch -d [branch_name] # Deleta uma branch
+git branch -D [branch_name] # Força a deleção de uma branch
+git checkout [branch_name] # Muda para uma branch específica
+git checkout -b [branch_name] # Cria e muda para uma nova branch
+git merge [branch_name] # Mescla uma branch específica na branch atual
+git rebase [branch_name] # Rebase da branch atual a partir de outra
+git cherry-pick [commit_hash] # Adiciona um commit específico de outra branch à branch atual
+git stash # Salva alterações temporariamente
+git stash list # Lista todos os stashes salvos
+git stash apply # Aplica as alterações do último stash
+git stash pop # Aplica e remove as alterações do último stash
+git stash drop # Remove o último stash
+git stash clear # Limpa todos os stashes salvos
+git stash show [stash@{n}] # Mostra as mudanças de um stash específico
+SINCRONIZAÇÃO COM REPOSITÓRIOS REMOTOS
+
+git remote -v # Lista todos os repositórios remotos configurados
