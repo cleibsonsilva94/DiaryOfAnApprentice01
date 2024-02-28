@@ -31,3 +31,12 @@ https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/e9ca92
 ## CLEAR
 
 https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/c27c5337-47f8-4f6e-a38a-0b39493e9143
+
+## mkdir
+Cria pastas e diretórios.
+
+## rmdir
+Deleta pastas e diretórios.
+
+Vídeos com comandos mkdir e rmdir
+https://youtu.be/WRtnFIyILbw
