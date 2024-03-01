@@ -10,3 +10,4 @@ As variáveis no código são exatamente isso. Um espaço onde você armazena al
 pode ser do tipo texto, numérica ou booleana) para usar posteriormente. No vídeo abaixo, explico 
 com um exemplo exatamente esse conceito. 
 
+https://youtu.be/etkyGu59IEw?si=7MO6SG04TKprU5h6
