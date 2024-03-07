@@ -7,7 +7,7 @@ minha modesta residência, mantenho uma estante onde guardo meus documentos pess
 
 Dentro de cada pasta, os assuntos estudados são organizados por data, com os mais recentes no fundo e os mais antigos na frente. Assim, quando preciso revisar algo, basta selecionar a pasta da disciplina desejada; se foi estudado recentemente, estará na frente, se foi há muito tempo, estará mais no fundo. 
 
-![PASTAS](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/a003d025-a512-4d8b-8333-d3f43f7e0c79)
+![Pastas](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/7e167399-4c16-47e0-bc54-617af9b350a3)
 
 Esta é minha maneira de armazenar informações da faculdade para facilitar buscas quando necessário. Isso é essencialmente um banco de dados - **uma estrutura organizada e padronizada para armazenar informações visando facilitar futuras consultas.** Portanto, posso dizer que tenho um "banco de dados" no meu quarto. Surpreendente, não é? ;)
 
