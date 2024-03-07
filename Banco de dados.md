@@ -15,5 +15,12 @@ Portanto, **o MySQL não é um banco de dados.** Ele se encaixa em um **SGDB** (
 
 Informação é a coisa mais valiosa do mundo! Dados por si só não têm tanto valor. Como o petróleo, eles precisam ser refinados para se tornarem valiosos, e o banco de dados desempenha um papel fundamental nisso. Ele permite que você armazene informações e as relacione para por exemplo, tomar grandes decisões.
 
-
 ![103899841-petróleo-bruto-derramado-do-barril-e-moedas-de-ouro-no-fundo-de-dólares-conceito-de-negócios](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/7fd93851-c205-4309-b937-6121117702c3)
+Se você me desse um barril de petróleo, provavelmente eu agradeceria, mas não saberia muito o que fazer. Mas se você me ensinasse a refiná-lo, aí eu te agradeceria muito!
+
+
+
+
+
+
+
