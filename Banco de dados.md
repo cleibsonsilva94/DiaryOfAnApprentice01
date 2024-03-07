@@ -1,14 +1,10 @@
 # Meu "Banco de Dados" no meu Quarto
 
-Em minha humilde residência, eu possuo uma estante onde guardo meus documentos pessoais, e tenho pastas com materiais de estudo da faculdade. 
-Cada pasta é associada a uma cadeira específica. Por exemplo, há uma pasta apenas com os materiais impressos de Conceitos de computação 1, outra 
-com Algoritmos de Programação, e outra com assuntos estudados em Infraestrutura de Computação.
+minha modesta residência, mantenho uma estante onde guardo meus documentos pessoais e pastas com materiais de estudo da faculdade, cada uma dedicada a uma disciplina específica. Por exemplo, tenho uma pasta para Conceitos de Computação 1, outra para Algoritmos de Programação e outra para temas abordados em Infraestrutura de Computação.
 
  ![estante 02](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/5286aff5-0aef-42ac-b146-edfc81ad14fb)
 
 
-Dentro de cada pasta, os assuntos estudados por mim são organizados por data, sendo os mais recentes na parte de trás da pasta (no fundo) e os mais antigos na parte da frente. Dessa forma, quando desejo 
-relembrar algo, simplesmente escolho a pasta da cadeira específica, e se estudei recentemente, estará na frente; se foi estudado há muito tempo, estará mais para trás.
-Isso é minha forma de armazenar as informações da faculdade de modo a facilitar uma busca em caso de necessidade. E isso é um banco de dados. Um banco de dados é um conceito, uma ideia. 
-Não se trata do MySQL. Um banco de dados é uma forma organizada e padronizada de guardar informações para facilitar uma possível busca. Isso é banco de dados. Levando isso em conta, 
-tenho um "banco de dados" no meu quarto, dá para acreditar :)
+Dentro de cada pasta, os assuntos estudados são organizados por data, com os mais recentes no fundo e os mais antigos na frente. Assim, quando preciso revisar algo, basta selecionar a pasta da disciplina desejada; se foi estudado recentemente, estará na frente, se foi há muito tempo, estará mais no fundo. 
+
+Esta é minha maneira de armazenar informações da faculdade para facilitar buscas quando necessário. Isso é essencialmente um banco de dados - ##uma estrutura organizada e padronizada para armazenar informações visando facilitar futuras consultas.## Portanto, posso dizer que tenho um "banco de dados" no meu quarto. Surpreendente, não é? ;)
