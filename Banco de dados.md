@@ -11,7 +11,9 @@ Dentro de cada pasta, os assuntos estudados são organizados por data, com os ma
 
 Esta é minha maneira de armazenar informações da faculdade para facilitar buscas quando necessário. Isso é essencialmente um banco de dados - **uma estrutura organizada e padronizada para armazenar informações visando facilitar futuras consultas.** Portanto, posso dizer que tenho um "banco de dados" no meu quarto. Surpreendente, não é? ;)
 
-Portanto, **o MySQL não é um banco de dados.** Ele se encaixa em um **SGDB** (Sistema de Gerenciamento de Banco de Dados), e esse é outro assunto. De uma forma ou de outra, o banco de dados é de suma importância para transformar dados em informações.
+Portanto, **o MySQL não é um banco de dados.** Ele se encaixa em um **SGDB** (Sistema de Gerenciamento de Banco de Dados), e esse é outro assunto. De uma forma ou de outra, o banco de dados é de suma importância para transformar dados em informações. 
+
+## A importantancia da informação 
 
 Informação é a coisa mais valiosa do mundo! Dados por si só não têm tanto valor. Como o petróleo, eles precisam ser refinados para se tornarem valiosos, e o banco de dados desempenha um papel fundamental nisso. Ele permite que você armazene informações e as relacione para por exemplo, tomar grandes decisões.
 
