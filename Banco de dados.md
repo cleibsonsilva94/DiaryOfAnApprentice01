@@ -1,7 +1,7 @@
 # Meu "Banco de Dados" no meu Quarto
 
 Em minha humilde residência, eu possuo uma estante onde guardo meus documentos pessoais, e tenho pastas com materiais de estudo da faculdade. 
-Cada pasta é associada a uma cadeira específica. Por exemplo, há uma pasta apenas com os materiais impressos de Conceitos de Programação 1, outra 
+Cada pasta é associada a uma cadeira específica. Por exemplo, há uma pasta apenas com os materiais impressos de Conceitos de computação 1, outra 
 com Algoritmos de Programação, e outra com assuntos estudados em Infraestrutura de Computação.
 
  ![estante 02](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/5286aff5-0aef-42ac-b146-edfc81ad14fb)
