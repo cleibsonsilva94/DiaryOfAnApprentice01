@@ -12,6 +12,3 @@ relembrar algo, simplesmente escolho a pasta da cadeira específica, e se estude
 Isso é minha forma de armazenar as informações da faculdade de modo a facilitar uma busca em caso de necessidade. E isso é um banco de dados. Um banco de dados é um conceito, uma ideia. 
 Não se trata do MySQL. Um banco de dados é uma forma organizada e padronizada de guardar informações para facilitar uma possível busca. Isso é banco de dados. Levando isso em conta, 
 tenho um "banco de dados" no meu quarto, dá para acreditar :)
-
-## SGPD 
-
