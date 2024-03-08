@@ -24,8 +24,8 @@
 
    Se você me desse um barril de petróleo, eu agradeceria, mas não saberia muito o que fazer. Porém, se você me ensinasse a refiná-lo e transformá-lo em gasolina, isso seria muito bom, especialmente considerando o preço da gasolina aqui em Recife.
 
-Você lembra do que falei acima? Sobre pesquisar por bikes ou peças de bike? Se no Google eu pesquiso por "Boletim de ocorrência online" ou "O que fazer se minha bike foi roubada?" O Google logo irá guardar essas informações e cruzá-las, compará-las a fim de fazer deduções. Essas deduções podem incluir: o Zé teve a bike roubada, que tal mostrarmos para ele ofertas de uma bike nova? E junto a isso, poderíamos enviar para ele propagandas de seguros de bike, pois agora, pelos dados gerados por ele, existe uma maior possibilidade de ele comprar algo do tipo.
+Você lembra do que falei acima? Sobre pesquisar por bikes ou peças de bike? Se no Google eu pesquiso por "Boletim de ocorrência online" ou "O que fazer se minha bike foi roubada?" O Google logo irá guardar essas informações e cruzá-las, compará-las e até fazer deduções. Essas deduções podem incluir: o Zé teve a bike roubada, que tal mostrarmos para ele ofertas de uma bike nova? E junto a isso, poderíamos enviar para ele propagandas de seguros de bike, pois agora, pelos dados gerados por ele, existe uma maior possibilidade de ele comprar algo desse tipo...
 
-Para isso são aplicados os bancos de dados (onde se guarda informação de maneira estruturada) e modelos matemáticos extremamente complexos. Mas percebe a importância do banco de dados? Eles permitem que você armazene dados, os relacione e transforme em informação, o novo petróleo do mundo.
+Para isso são usados os bancos de dados (onde se guarda informação de maneira estruturada) e modelos matemáticos extremamente complexos. Mas percebe a importância do banco de dados? Eles permitem que você armazene dados, os relacione e transforme em informação, o novo petróleo do mundo.
 
 ![dados-sao-novo-petroleo](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/6d679e8a-6ea9-4a0c-befa-66a9b9699b21)
