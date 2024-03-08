@@ -12,7 +12,7 @@
 
   Falando sobre a importância dos bancos de dados, é essencial entender que o MySQL não é, por si só, um banco de dados. Ele se encaixa em um SGDB (Sistema de Gerenciamento de Banco de Dados), e esse é outro assunto. No entanto, é inegável que o banco de dados desempenha um papel fundamental em transformar dados em informações úteis. Eles têm a capacidade de transformar dados no novo petróleo da humanidade, a informação. Como assim? Se avexe não e continue a leitura só mais um tiquinho.
 
-## informação o **novo "Petroleo"** do mundo
+## Informação o **novo "Petroleo"** do mundo
 
    Observe na foto abaixo as empresas mais ricas do mundo. Entre elas estão o Google e o Facebook. Mas quanto você, você mesmo, pagou para usar o Facebook? E o Google? Essas empresas oferecem seus serviços gratuitamente. Peraí, de onde vem tanto dinheiro? É simples, elas conseguem transformar os dados que você gera em informação! Já aconteceu com você de pesquisar por bikes, por exemplo, ou peças de carro e aparecerem inúmeras propagandas de bicicletas ou carros depois? É mais ou menos assim que essas grandes corporações lucram. Elas armazenam, manipulam e vendem informação, o novo petróleo do mundo!
 
