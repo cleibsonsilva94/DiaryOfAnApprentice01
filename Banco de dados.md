@@ -14,7 +14,7 @@
 
 ## informação o **novo "Petroleo"** do mundo
 
-   Observe na foto abaixo as empresas mais ricas do mundo. Entre elas estão o Google e o Facebook. Mas quanto você, você mesmo, pagou para usar o Facebook? E o Google? Essas empresas oferecem seus serviços gratuitamente. Peraí, de onde vem tanto dinheiro? É simples, elas conseguem transformar os dados que você gera em dinheiro! Já aconteceu com você de pesquisar por bikes, por exemplo, ou peças de carro e aparecerem inúmeras propagandas de bicicletas ou carros depois? É mais ou menos assim que essas grandes corporações lucram. Elas armazenam, manipulam e vendem informação, o novo petróleo do mundo!
+   Observe na foto abaixo as empresas mais ricas do mundo. Entre elas estão o Google e o Facebook. Mas quanto você, você mesmo, pagou para usar o Facebook? E o Google? Essas empresas oferecem seus serviços gratuitamente. Peraí, de onde vem tanto dinheiro? É simples, elas conseguem transformar os dados que você gera em informação! Já aconteceu com você de pesquisar por bikes, por exemplo, ou peças de carro e aparecerem inúmeras propagandas de bicicletas ou carros depois? É mais ou menos assim que essas grandes corporações lucram. Elas armazenam, manipulam e vendem informação, o novo petróleo do mundo!
 
 ![empresas ricas](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/ce006ecc-3a20-4892-9454-83d588d28511)
 
