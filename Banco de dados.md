@@ -1,4 +1,8 @@
-# Meu "Banco de Dados" Pessoal.   (https://www.youtube.com/watch?v=jOw43FiFoZk)
+# Meu "Banco de Dados" Pessoal.   
+
+
+Se preferir, veja o vídeo :) 
+(https://www.youtube.com/watch?v=jOw43FiFoZk) 
 
    Em minha modesta residência, mantenho uma estante onde guardo meus documentos pessoais e pastas com materiais de estudo da faculdade, cada uma dedicada a uma disciplina específica. Por exemplo, tenho uma pasta para Conceitos de Computação 1, outra para Algoritmos de Programação e outra para temas abordados em Infraestrutura de Computação.
 
