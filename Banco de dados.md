@@ -33,8 +33,3 @@ Você lembra do que falei acima? Sobre pesquisar por bikes ou peças de bike? Se
 Para isso são usados os bancos de dados (onde se guarda informação de maneira estruturada) e modelos matemáticos extremamente complexos. Mas percebe a importância do banco de dados? Eles permitem que você armazene dados, os relacione e transforme em informação, o novo petróleo do mundo.
 
 ![dados-sao-novo-petroleo](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/6d679e8a-6ea9-4a0c-befa-66a9b9699b21)
-
-No vídeo abaixo, explico o que é o banco de dados e sua importância.
-
-https://www.youtube.com/watch?v=jOw43FiFoZk
-
