@@ -44,6 +44,18 @@ Mostra o diretório (Pasta) atual em que você está.
 
 Mostra o manual de um comando específico. Por exemplo, man ls exibe o manual para o comando "ls".
 
+## touch
+
+Cria um novo arquivo vazio.
+
+## cp
+
+Copia arquivos e diretórios.
+
+## mv
+
+Move arquivos e diretórios.
+
  - ## Uma dica
 
 Esses são para mim os comandos mais importantes, mas existem milhares de comandos que você vai aprender com o tempo. Minha recomendação pessoal é: ANOTE TUDO. Anotando, você terá onde recorrer sempre que achar necessário.
