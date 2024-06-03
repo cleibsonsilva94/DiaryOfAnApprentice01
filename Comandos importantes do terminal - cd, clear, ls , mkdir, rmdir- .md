@@ -38,5 +38,14 @@ Cria pastas e diretórios.
 ## rmdir
 Deleta pastas e diretórios.
 
+## pwd
+
+Mostra o diretório (Pasta) atual em que você está.
+
+## man
+Mostra o manual de um comando específico. Por exemplo, man ls exibe o manual para o comando "ls".
+
+Esses são para mim os comandos mais importantes, mas existem milhares de comandos que você vai aprender com o tempo. Minha recomendação pessoal é: ANOTE TUDO. Anotando, você terá onde precisar e recorrer sempre que achar necessário.
+
 Vídeos com comandos mkdir e rmdir
 https://youtu.be/WRtnFIyILbw
