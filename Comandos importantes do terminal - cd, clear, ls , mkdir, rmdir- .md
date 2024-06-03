@@ -46,6 +46,6 @@ Mostra o manual de um comando específico. Por exemplo, man ls exibe o manual pa
 
 ## Uma dica
 
-Esses são para mim os comandos mais importantes, mas existem milhares de comandos que você vai aprender com o tempo. Minha recomendação pessoal é: ANOTE TUDO. Anotando, você terá onde precisar e recorrer sempre que achar necessário.
+Esses são para mim os comandos mais importantes, mas existem milhares de comandos que você vai aprender com o tempo. Minha recomendação pessoal é: ANOTE TUDO. Anotando, você terá onde recorrer sempre que achar necessário.
 
 Vídeos com comandos mkdir e rmdir: [Comandos mkdir e rmdir](https://youtu.be/WRtnFIyILbw)
