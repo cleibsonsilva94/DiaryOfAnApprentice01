@@ -1,4 +1,4 @@
-# Comandos Importantes do Terminal 3/10
+# 10 Comandos Importantes do Terminal 
 No terminal, tudo funciona por meio de comandos, afinal é uma interface de linha de comando! Nesse pequeno texto, mostrarei os principais comandos, na minha visão, do terminal.
 
 ## Cd
