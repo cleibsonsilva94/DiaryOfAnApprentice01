@@ -49,4 +49,6 @@ E ele é simplesmente sensacional. Mas acredito que, em essência, o filme nos t
 uma grande lição: não podemos voltar ao passado e corrigir nossos erros; portanto, 
 devemos pensar bem antes de cada passo, cada decisão de nossa vida.
 
+![de-volta-para-o-futuro-poster](https://github.com/cleibsonsilva94/DiaryOfAnApprentice01/assets/156372072/6c231f3a-920d-455a-9d93-102e7a96217e)
+
 <sub>Fique tranquilo, não sou um coach :) </sub>
