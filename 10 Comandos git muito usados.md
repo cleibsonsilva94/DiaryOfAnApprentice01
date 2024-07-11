@@ -47,4 +47,5 @@
 
 Existem muitos outros comandos que você aprenderá com o tempo, e o ideal é que você tenha anotado todos os comandos a fim de sempre recorrer a eles quando precisar. No vídeo abaixo, eu mostro como utilizar cada um dos comandos acima :)
 
-Vídeo:
+Vídeo parte 1: https://youtu.be/_72ACU413fk 
+
