@@ -45,7 +45,7 @@ Você guarda temporariamente modificações em uma gaveta, por assim dizer. No v
 
 Usado para caminhar entre as branches.
 
-Existem muitos outros comandos que você aprenderá com o tempo, e o ideal é que você tenha anotado todos os comandos a fim de sempre recorrer a eles quando precisar. No vídeo abaixo, eu mostro como utilizar cada um dos comandos acima :)
+Existem muitos outros comandos que você aprenderá com o tempo, e o ideal é que você tenha anotado todos os comandos a fim de sempre recorrer a eles quando precisar. Nos vídeos abaixo, eu mostro como utilizar cada um dos comandos acima :)
 
 ### Vídeo parte 1: [https://youtu.be/_72ACU413fk](https://youtu.be/_72ACU413fk)
-### Parte 2:
+### Parte 2: [https://youtu.be/RRy9IlUWA84?si=p3ndoUs6uv4u_bS1](https://youtu.be/RRy9IlUWA84?si=p3ndoUs6uv4u_bS1)
