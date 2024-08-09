@@ -14,3 +14,7 @@ O arquivo de configuração do Git pode ser encontrado na sua pasta home. Para l
 Abra o arquivo ".gitconfig" em um editor de texto. Ele pode parecer algo assim:
 
 ![git config --global --list png 02](https://github.com/user-attachments/assets/502ad621-918a-40fb-aace-107a48647390)
+
+Adicione a seção [alias] ao arquivo para definir seus apelidos. Por exemplo:
+
+![alias](https://github.com/user-attachments/assets/7823a524-ebe5-42b2-adbd-caa69dcc4649)
