@@ -10,7 +10,7 @@ Esses computadores eram enormes, lentos (em comparação com os computadores atu
 ![PC 01](https://github.com/user-attachments/assets/8667ffce-91c4-480d-a2ed-4d8ddc8f5393)
 
 
-Agora, um ambiente úmido e quente atrai o quê?  
+Pense, um ambiente úmido e quente atrai o quê?  
 Insetos, logicamente.
 
 ![OIG3 8](https://github.com/user-attachments/assets/1e85a7a9-643b-4cd6-8940-c1e9d8453e1e)
