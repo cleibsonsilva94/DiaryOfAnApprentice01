@@ -6,15 +6,24 @@ Nessa disciplina, inicialmente, discutimos a história e a evolução da tecnolo
 
 Acredito que foi na segunda aula, se não me falha a memória, que falamos sobre os primeiros computadores, os quais eram responsáveis, na época, por realizar cálculos relacionados à guerra.
 
+![PC 03](https://github.com/user-attachments/assets/0d6688c7-64c8-4e43-b2b8-61a3cae15751)
+
 Esses computadores eram enormes, lentos (em comparação com os computadores atuais) e exigiam muita energia para mantê-los funcionando. A energia era fornecida por meio de válvulas, que faziam o ambiente ficar extremamente quente. Essas válvulas eram resfriadas com água, o que mantinha o local úmido.
+
+![PC 01](https://github.com/user-attachments/assets/8667ffce-91c4-480d-a2ed-4d8ddc8f5393)
+
 
 Agora, um ambiente úmido e quente atrai o quê?  
 Insetos, logicamente.
+
+![OIG3 8](https://github.com/user-attachments/assets/1e85a7a9-643b-4cd6-8940-c1e9d8453e1e)
 
 Imagine que você programou um cálculo específico nesses computadores e foi para casa. Como mencionado anteriormente, o processamento deles era bastante lento. No dia seguinte, quando você retorna para verificar o resultado do seu cálculo, uma barata, ou qualquer outro inseto, entrou no computador e afetou não só o funcionamento da máquina, mas também o resultado do seu cálculo.
 
 A origem do problema? Um *bug* (inseto, em inglês).
 
 Assim, a palavra "*bug*" passou a ser usada para se referir a erros ou inconsistências nos sistemas informatizados.
+
+![Recife](https://github.com/user-attachments/assets/d0331856-6fb6-408d-ad1c-5887c9ba8021)
 
 Interessante, não é?
