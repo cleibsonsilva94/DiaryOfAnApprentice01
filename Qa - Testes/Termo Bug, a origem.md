@@ -5,9 +5,6 @@ Essa foi uma das primeiras coisas que aprendi na **Faculdade Senac**, quando ain
 Nessa disciplina, inicialmente, discutimos a história e a evolução da tecnologia da informação.
 
 Acredito que foi na segunda aula, se não me falha a memória, que falamos sobre os primeiros computadores, os quais eram responsáveis, na época, por realizar cálculos relacionados à guerra.
-
-![PC 03](https://github.com/user-attachments/assets/0d6688c7-64c8-4e43-b2b8-61a3cae15751)
-
 Esses computadores eram enormes, lentos (em comparação com os computadores atuais) e exigiam muita energia para mantê-los funcionando. A energia era fornecida por meio de válvulas, que faziam o ambiente ficar extremamente quente. Essas válvulas eram resfriadas com água, o que mantinha o local úmido.
 
 ![PC 01](https://github.com/user-attachments/assets/8667ffce-91c4-480d-a2ed-4d8ddc8f5393)
