@@ -11,15 +11,12 @@ Acredito que foi na segunda aula, se não me falha a memória, que falamos sobre
 Agora pense: um ambiente úmido e quente atrai o quê?  
 Insetos, logicamente.
 
-![OIG3 8](https://github.com/user-attachments/assets/1e85a7a9-643b-4cd6-8940-c1e9d8453e1e)
-
 Imagine que você programou um cálculo específico nesses computadores e foi para casa. Como mencionado anteriormente, o processamento deles era bastante lento. No dia seguinte, quando você retorna para verificar o resultado do seu cálculo, uma barata, ou qualquer outro inseto, entrou no computador e afetou não só o funcionamento da máquina, mas também o resultado do seu cálculo.
 
 A origem do problema? Um *bug* (inseto, em inglês).
 
 Assim, a palavra "*bug*" passou a ser usada para se referir a erros ou inconsistências nos sistemas informatizados.
 
-![Recife](https://github.com/user-attachments/assets/d0331856-6fb6-408d-ad1c-5887c9ba8021)
+![1693856871840](https://github.com/user-attachments/assets/039b006b-6a89-495b-b9fc-79f3fe8ae1f9)
 
 Interessante, não é?
-
