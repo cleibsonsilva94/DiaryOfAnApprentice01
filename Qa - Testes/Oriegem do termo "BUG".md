@@ -1,16 +1,14 @@
-# Você Sabe a Origem do Termo "Bug"?
+## Você sabe a origem do termo "bug"?
 
-Essa foi uma das primeiras coisas que aprendi na **Faculdade Senac**, quando ainda estava no primeiro período, na cadeira de *Conceitos de Computação*.
+Essa foi uma das primeiras coisas que aprendi na **Faculdade Senac**, quando ainda estava no primeiro período, na disciplina de *Conceitos de Computação*.
 
 Nessa disciplina, inicialmente, discutimos a história e a evolução da tecnologia da informação.
 
-Acredito que foi na segunda aula, se não me falha a memória, que falamos sobre os primeiros computadores, os quais eram responsáveis, na época, por realizar cálculos relacionados à guerra.
-Esses computadores eram enormes, lentos (em comparação com os computadores atuais) e exigiam muita energia para mantê-los funcionando. A energia era fornecida por meio de válvulas, que faziam o ambiente ficar extremamente quente. Essas válvulas eram resfriadas com água, o que mantinha o local úmido.
+Acredito que foi na segunda aula, se não me falha a memória, que falamos sobre os primeiros computadores, os quais eram responsáveis, na época, por realizar cálculos relacionados à guerra. Esses computadores eram enormes, lentos (em comparação com os computadores atuais) e exigiam muita energia para mantê-los funcionando. A energia era fornecida por meio de válvulas, o que fazia o ambiente ficar extremamente quente. Essas válvulas eram resfriadas com água, o que mantinha o local úmido.
 
 ![PC 01](https://github.com/user-attachments/assets/8667ffce-91c4-480d-a2ed-4d8ddc8f5393)
 
-
-Pense, um ambiente úmido e quente atrai o quê?  
+Agora pense: um ambiente úmido e quente atrai o quê?  
 Insetos, logicamente.
 
 ![OIG3 8](https://github.com/user-attachments/assets/1e85a7a9-643b-4cd6-8940-c1e9d8453e1e)
@@ -24,3 +22,4 @@ Assim, a palavra "*bug*" passou a ser usada para se referir a erros ou inconsist
 ![Recife](https://github.com/user-attachments/assets/d0331856-6fb6-408d-ad1c-5887c9ba8021)
 
 Interessante, não é?
+
