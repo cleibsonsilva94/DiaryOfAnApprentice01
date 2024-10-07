@@ -1,12 +1,17 @@
-# **Iniciando meus estudos na área de testes Mobile**
+# **Testes mobile**
 
+Iniciando meus estudos na área de testes Mobile
 Percebi que há muitos desafios nessa faceta do controle de qualidade de software.
 
 Neste pequeno texto, gostaria de apresentar **três desafios** que acredito serem os mais difíceis de lidar.
 
 ## **Mas por que se empenhar em estudar testes Mobile?**
 
-No Brasil, temos aproximadamente **258 milhões de smartphones** em uso, o que equivale a mais de um aparelho por habitante. Ou seja, praticamente todo mundo tem um celular. Consequentemente, todos usam aplicativos de diversos tipos para:
+No Brasil, temos aproximadamente **258 milhões de smartphones** em uso, o que equivale a mais de um aparelho por habitante.
+
+![dispositivos](https://github.com/user-attachments/assets/9592ddd1-4fd5-426b-b46e-6932712b1a6f)
+
+Ou seja, praticamente todo mundo tem um celular. Consequentemente, todos usam aplicativos de diversos tipos para:
 
 - Realizar transações bancárias
 - Jogar
