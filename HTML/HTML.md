@@ -8,7 +8,7 @@ Na faculdade Senac, recentemente tive aulas de HTML, e como fiquei empolgado! O 
 
 Antes de falar sobre HTML, vamos entender o que é uma página web. Basicamente, ela é um conjunto de informações dispostas em uma espécie de folha de papel digital, como um documento do Word. Exatamente como o nome descreve: uma "Página" com um número limitado de informações.  
 
-Nela, podemos incluir botões que dão acesso a inúmeros recursos, títulos, subtítulos, parágrafos, vídeos, áudios, imagens... e a lista é quase infinita.  
+Nela, podemos incluir botões que dão acesso a inúmeros recursos, títulos, subtítulos, parágrafos, vídeos, áudios, imagens... e a lista é quase infinita. Observe na pág abaixo:
 
 ![git Ntc](https://github.com/user-attachments/assets/bce170af-6630-41f1-8dd6-94085118ab32)
 
