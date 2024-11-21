@@ -10,10 +10,7 @@ Antes de falar sobre HTML, vamos entender o que é uma página web. Basicamente,
 
 Nela, podemos incluir botões que dão acesso a inúmeros recursos, títulos, subtítulos, parágrafos, vídeos, áudios, imagens... e a lista é quase infinita. Observe na pág abaixo:
 
-![git Ntc](https://github.com/user-attachments/assets/bce170af-6630-41f1-8dd6-94085118ab32)
-
-
-*Observe a página do melhor time do Nordeste: [https://www.nautico-pe.com.br/](https://www.nautico-pe.com.br/)*
+![gif globo](https://github.com/user-attachments/assets/b16aac38-65dc-42a6-8418-debfaca447a3)
 
 Diferente de um documento Word, onde o que você escreve na tela é exatamente o que verá ao imprimir, uma página web é estruturada por meio de regras e padrões — os famosos "códigos malucos". Veja o exemplo abaixo:  
 
