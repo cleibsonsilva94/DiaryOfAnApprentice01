@@ -10,19 +10,24 @@ Antes de falar sobre HTML, vamos entender o que é uma página web. Basicamente,
 
 Nela, podemos incluir botões que dão acesso a inúmeros recursos, títulos, subtítulos, parágrafos, vídeos, áudios, imagens... e a lista é quase infinita.  
 
-
-Uploading Náutico.mp4…
+![git Ntc](https://github.com/user-attachments/assets/bce170af-6630-41f1-8dd6-94085118ab32)
 
 
 *Observe a página do melhor time do Nordeste: [https://www.nautico-pe.com.br/](https://www.nautico-pe.com.br/)*
 
-Diferente de um documento Word, onde o que você escreve na tela é exatamente o que verá ao imprimir, uma página web é estruturada por meio de regras e padrões — os famosos "códigos malucos". E é aqui que o HTML entra em ação.  
+Diferente de um documento Word, onde o que você escreve na tela é exatamente o que verá ao imprimir, uma página web é estruturada por meio de regras e padrões — os famosos "códigos malucos". Veja o exemplo abaixo:  
+
+![Meu Cdg](https://github.com/user-attachments/assets/ab994e70-0d2b-47e1-97d1-1331ed9e8092)
+
+E é aqui que o HTML entra em ação.
 
 ---
 
 ## Como o HTML Funciona?  
 
 O HTML organiza as informações por meio de tags, que formam uma espécie de esqueleto. Nessa estrutura, os órgãos e músculos seriam os conteúdos que o desenvolvedor vai encaixando. Além disso, o CSS é como as roupas que dão estilo ao esqueleto, enquanto o JavaScript adiciona as funcionalidades e interatividade da página.  
+
+![depositphotos_522196780-stock-illustration-html-css-and-javascript-suit](https://github.com/user-attachments/assets/2a1ba4c5-bea8-4563-aaac-237d452e29fe)
 
 Normalmente, essas três ferramentas trabalham juntas, formando a base do desenvolvimento web.  
 
