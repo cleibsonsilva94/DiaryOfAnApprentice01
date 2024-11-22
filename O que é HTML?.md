@@ -14,7 +14,7 @@ Nela, podemos incluir botões que dão acesso a inúmeros recursos, títulos, su
 https://github.com/user-attachments/assets/5c542ddf-fa1e-4e69-b89e-ee28db0c3999
 
 
-Diferente de um documento Word, onde o que você escreve na tela é exatamente o que verá ao imprimir, uma página web é estruturada por meio de regras e padrões — os famosos "códigos malucos". Veja o exemplo abaixo:  
+Diferentemente de um documento do Word, em que o que você escreve na tela é exatamente o que será impresso, uma página web é estruturada por meio de regras e padrões — ou, como costumo dizer, "códigos malucos". Veja o exemplo abaixo:  
 
 ![Meu Cdg](https://github.com/user-attachments/assets/ab994e70-0d2b-47e1-97d1-1331ed9e8092)
 
