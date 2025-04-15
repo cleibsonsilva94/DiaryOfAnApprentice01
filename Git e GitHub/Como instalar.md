@@ -111,3 +111,133 @@ Function cls {Clear-Host}
 ---
 
 Pronto! Agora sua máquina está configurada com Git e atalhos no terminal para facilitar seu dia a dia como dev! ✨
+
+
+# 🐧Linux
+
+
+---
+
+## ✅ 1. Instalando o Git
+
+Abra o terminal e execute:
+
+### 🔹 Debian, Ubuntu e derivados:
+
+```bash
+sudo apt update
+sudo apt install git -y
+```
+
+### 🔹 Fedora:
+
+```bash
+sudo dnf install git -y
+```
+
+### 🔹 Arch Linux:
+
+```bash
+sudo pacman -S git
+```
+
+Verifique a instalação:
+
+```bash
+git --version
+```
+
+---
+
+## ✅ 2. Configurando o Git pela primeira vez
+
+Defina o nome e o e-mail que serão usados nos commits:
+
+```bash
+git config --global user.name "Seu Nome"
+git config --global user.email "seuemail@exemplo.com"
+```
+
+Para verificar todas as configurações:
+
+```bash
+git config --list
+```
+
+---
+
+## ✅ 3. Criando Aliases (apelidos) para comandos do Git
+
+Economize tempo com comandos personalizados:
+
+```bash
+git config --global alias.st status
+git config --global alias.co checkout
+git config --global alias.br branch
+git config --global alias.cm "commit -m"
+git config --global alias.last "log -1 HEAD"
+```
+
+Uso rápido:
+
+```bash
+git st
+git co nome-da-branch
+git cm "mensagem do commit"
+```
+
+---
+
+## ✅ 4. Criando Aliases do Terminal
+
+### 🔹 Para Bash
+
+1. Edite o arquivo `.bashrc`:
+
+```bash
+nano ~/.bashrc
+```
+
+2. Adicione ao final do arquivo:
+
+```bash
+alias gs='git status'
+alias gc='git commit -m'
+alias gp='git push'
+alias c='clear'
+```
+
+3. Salve com `Ctrl + O`, depois `Enter` e saia com `Ctrl + X`.
+
+4. Recarregue o terminal:
+
+```bash
+source ~/.bashrc
+```
+
+---
+
+### 🔹 Para Zsh
+
+Se estiver usando o Zsh (Oh My Zsh, por exemplo), edite o `.zshrc`:
+
+```bash
+nano ~/.zshrc
+```
+
+Adicione os mesmos aliases:
+
+```bash
+alias gs='git status'
+alias gc='git commit -m'
+alias gp='git push'
+alias c='clear'
+```
+
+Salve e recarregue:
+
+```bash
+source ~/.zshrc
+```
+
+---
