@@ -8,7 +8,8 @@ Este tutorial tem como objetivo ajudar você a deixar sua máquina pronta para p
 
 ### 🔹 Windows
 
-1. Acesse: [https://git-scm.com](https://git-scm.com) [https://git-scm.com]([https://git-scm.com](https://git-scm.com/downloads/win)) 
+1. Acesse: [https://git-scm.com](https://git-scm.com) 
+[https://git-scm.com]([https://git-scm.com](https://git-scm.com/downloads/win)) 
 2. Baixe o instalador e siga os passos padrão da instalação.
 3. Após instalar, abra o terminal (CMD ou PowerShell) e digite:
 
