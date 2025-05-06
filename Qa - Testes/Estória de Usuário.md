@@ -88,4 +88,47 @@ Subdivisões de um épico. Um épico pode conter várias **features**, e cada fe
 
 São partes visíveis de uma funcionalidade que têm valor para o cliente.
 
+
+# ⚠️ Análise de Risco
+
+## 📌 O que é risco?
+
+**Risco** é um evento incerto e geralmente negativo que pode impactar negativamente a entrega de um projeto ou o funcionamento de uma funcionalidade específica do sistema.
+
 ---
+
+## 🧠 Como lidar com riscos?
+
+Para que os riscos sejam tratados de forma eficiente, é necessário:
+
+- 📊 **Avaliar** o risco;
+- 🏷️ **Classificá-lo** conforme sua gravidade e probabilidade;
+- 📋 **Organizá-lo** do maior para o menor impacto;
+- 👤 **Atribuí-lo** a alguém responsável pelo monitoramento.
+
+---
+
+## 🔢 Mensuração do risco
+
+Riscos também podem ser **mensurados com valores numéricos**, permitindo uma análise mais objetiva e técnica. Por exemplo:
+
+- Probabilidade (de 0 a 1);
+- Impacto (pontuação de 1 a 5);
+- Risco total = Probabilidade × Impacto.
+
+---
+
+## ✅ Ações possíveis diante de um risco
+
+Existem quatro abordagens principais que podemos adotar frente a um risco identificado:
+
+- 🔽 **Mitigar:** Reduzir a probabilidade ou o impacto do risco;
+- ❌ **Eliminar:** Remover completamente a causa do risco;
+- 🔁 **Transferir:** Delegar a responsabilidade do risco a terceiros (ex: seguros, contratos);
+- 🤷‍♂️ **Aceitar:** Reconhecer o risco e seguir com o plano, ciente das possíveis consequências.
+
+---
+
+## 🎯 Conclusão
+
+Uma boa **análise de risco** é essencial para garantir a estabilidade, previsibilidade e sucesso de qualquer projeto. Antecipar problemas potenciais é uma forma inteligente de proteger entregas e gerar valor com mais segurança.
